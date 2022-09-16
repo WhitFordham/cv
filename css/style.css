@@ -1,0 +1,187 @@
+body {
+    margin: 0px;
+    text-align: center;
+    background-color: #7F8487;
+}
+
+h1 {
+    font-family: 'Rampart One', cursive;
+    font-size: 6.5em;
+    color: #E04D01
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3em;
+}
+
+h3 {
+    color: #16213E
+}
+
+hr {
+    border: dashed 4px #E04D01;
+    width: 25%;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+dt {
+    margin: 0 10px 5px 25px;
+}
+
+dd {
+    margin: 0 0 18px 10px;
+}
+
+a:active {
+    color: #0F3460
+}
+
+a:visited {
+    color: #0F3460;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #E04D01;
+}
+
+.head {
+    background-color: #0F3460;
+    padding: 250px;
+}
+
+.coding {
+    position: absolute;
+    width: 265px;
+    right: 150px;
+    top: 15px;
+}
+
+.binary {
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+    height: 230px;
+    left: 0px;
+}
+
+.game {
+    position: absolute;
+    width: 315px;
+    left: 130px;
+    top: 25px;
+}
+
+.content {
+    background-color: #7F8487;
+    font-family: 'Libre Baskerville', serif;
+    padding:95px;
+}
+
+.headshot {
+    border-radius: 30%
+}
+
+.languages {
+    padding: 40px;
+}
+
+.language_pic {
+    float: right;
+    margin-right: 35%;
+    margin-top: 40px;
+}
+
+.language_list {
+    margin-left: 35%;
+    margin-top: 75px;
+}
+
+.programming {
+    width: 225px;
+}
+
+.experience {
+    padding: 40px;
+    clear: both;
+}
+
+.leadership {
+    margin-top: 55px;
+    margin-right: 25%;
+}
+
+.club {
+    width: 135px;
+}
+
+.leader_pic {
+    float: left;
+    margin-left: 35%;
+    margin-top: 50px;
+    
+}
+
+.skills {
+    clear: both;
+    padding: 40px;
+}
+
+.rating {
+    margin-left: 30%;
+    margin-top: 60px;
+}
+
+.skill_pic {
+    float: right;
+    margin-right: 30%;
+    margin-top: 25px;
+}
+.linux {
+    width: 250px;
+}
+
+.button {
+    border: #0F3460 solid 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    margin-top: 75px;
+}
+
+.foot {
+    border-bottom: #E04D01 solid 5px;
+    background-color: #0F3460;
+    padding: 3px;
+    color: white;
+}
+
+.top_hr {
+    color: #E04D01;
+    border: solid 3px;
+    margin: 0px;
+    width:99.7%;
+}
+
+.text {
+    float: left;
+    margin-left: 45%;
+    margin-top: 75px;
+}
+
+.input {
+    float: right;
+    margin-right: 42%;
+    margin-top: 75px;
+}
+
+.submit {
+    clear: both;
+}
